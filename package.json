@@ -1,16 +1,16 @@
 {
-"name": "galaxyeasy168",
-"theme": "galaxy easy168",
-"version": "3.10.7",
-"description": "galaxy easy168 สมัครสมาชิกเว็บคาสิโนเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"galaxy easy168",
-"galaxy easy168 เครดิตฟรี",
-"galaxy easy168 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/galaxyeasy168",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "galaxyeasy168",
+  "theme": "galaxy easy168",
+  "version": "3.11.0",
+  "description": "galaxy easy168 สมัครสมาชิกเว็บคาสิโนเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "galaxy easy168",
+    "galaxy easy168 เครดิตฟรี",
+    "galaxy easy168 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/galaxyeasy168",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
